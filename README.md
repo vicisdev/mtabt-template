@@ -1,4 +1,4 @@
-# MTA Build Tool Template
+# MTA Build Tool
 
 Straight forward build tool for nice and easy resources development.  
 
