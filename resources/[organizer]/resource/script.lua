@@ -1,0 +1,1 @@
+outputDebugString("Nice! It works!")
