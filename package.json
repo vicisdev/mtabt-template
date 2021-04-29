@@ -7,7 +7,7 @@
     "build": "mtabt build"
   },
   "devDependencies": {
-    "mta-build-tool": "^0.1.9"
+    "mta-build-tool": "^0.1.11"
   },
   "license": "MIT",
   "private": true
